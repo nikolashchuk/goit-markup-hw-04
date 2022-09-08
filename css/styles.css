@@ -586,6 +586,7 @@ img {
 /* список елементів порфоліо */
 
 .portfolio-link{
+    display: block;
     text-decoration: none;
 }
 
